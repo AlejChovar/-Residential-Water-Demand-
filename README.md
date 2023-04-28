@@ -1,4 +1,7 @@
 # -Residential-Water-Demand-
+
+https://doi.org/10.5281/zenodo.7876107
+
 This repository has the models estimated that support the manuscript Chovar et al. (2023) "Estimating Residential  Water Demand under Systematic Shifts between Uniforme Pirces (UP) and Increasing Block Tariffs (IBT)".  Working paper.
 
 ABSTRACT:
